@@ -617,7 +617,7 @@ def labeller(group, inputdf):
    
 
 #createLabels function will take the input file, do some standard processing, group it by rows, then pass the groupby object to the labeller function. It then will do a little processing on the output to split into appropriate sub-dataFrames and write those to hard drive.
-def createLabels(inputdf, paired_rows, nursery_prefix, free_pairs_dict = {}, multirows = {}, multis_list = {}, return_labels = False):
+def createLabels(inputdf, paired_rows, nursery_prefix, free_pairs_dict = {}, multirows = [], multis_list = {}, return_labels = False):
 
     global nursery_pre
     nursery_pre = nursery_prefix
