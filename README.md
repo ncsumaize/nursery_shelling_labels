@@ -1,5 +1,5 @@
 # nursery_shelling_labels
-Python code to generate plant breeding nursery inventories and shelling/threshing labels for see packets
+Python code to generate plant breeding nursery inventories and shelling/threshing labels for seed packets
   
 [Sample nursery info file used for input](nursery_sample_info.csv) 
 
