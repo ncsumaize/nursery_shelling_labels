@@ -3,7 +3,7 @@ Python code to generate plant breeding nursery inventories and shelling/threshin
 
 A script is used to combine input file information, add additionl information, then call the createLabels() function of the nursery module
 
-![](images/Workflow_main_shelling label_script.png)
+![](https://github.com/ncsumaize/nursery_shelling_labels/blob/master/images/Workflow_main_shelling_label_script.png)
   
 [Sample nursery info file used for input](nursery_sample_info.csv) 
 
