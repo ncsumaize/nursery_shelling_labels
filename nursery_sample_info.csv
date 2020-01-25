@@ -1,0 +1,62 @@
+ROW,Material,Seed ID,Gen,Poll_Type,Notes
+1,A1,18FL0052-1×0109-1,S0,SF,zero ear count
+2,A1,18FL0052-3×0103-6,S0,SF,zero ear count
+3,A1,18FL0052-5×0102-6,S0,SF,"single ear shell, 1 ear"
+4,A1,18FL0053-3×0102-4,S0,SF,"single ear shell, 4 ears"
+5,A1,18FL0054-1×0096-5,F1,SF,"single ear shell, 2 ears"
+6,A1,18FL0054-2,F2,SF,"single ear shell, 2 ears"
+7,A1,18FL0055-2,F2:3,SF,"single ear shell, 2 ears"
+8,A1,18FL0056-2,F2:4,SF,"single ear shell, 2 ears"
+9,A1,18FL0057-2,F3:4,SF,"single ear shell, 2 ears"
+10,A1,18FL0054-1×0096-5,F1,SF,"bulk shell, 2 ears"
+11,A1,18FL0054-2,F2,SF,"bulk shell, 2 ears"
+12,A1,18FL0055-2,F2:3,SF,"bulk shell, 2 ears"
+13,A1,18FL0056-2,F2:4,SF,"bulk shell, 2 ears"
+14,A1,18FL0057-2,F3:4,SF,"bulk shell, 2 ears"
+15,A1,18FL0054-1×0096-5,F1,SB,"bulk shell, 2 ears"
+16,A1,18FL0054-2,F2,SB,"bulk shell, 2 ears"
+17,A1,18FL0055-2,F2:3,SB,"bulk shell, 2 ears"
+18,A1,18FL0056-2,F2:4,SB,"bulk shell, 2 ears"
+19,A1,18FL0057-2,F3:4,SB,"bulk shell, 2 ears"
+20,A1,18FL0053-7,Inbred,SB,"bulk shell, 2 ears"
+21,A1,18FL0053-7,Inbred,CR,"single ear shell, 2 ears"
+22,B1,16CL0001-1,Inbred,CR,"single ear shell, 2 ears"
+23,B1,16CL0001-1,Inbred,CR,"single ear shell, 2 ears"
+24,A1,18FL0053-7,Inbred,CR,"single ear shell, 2 ears"
+25,C1,16MO0002-BLK,Inbred,OBS,no ears
+26,A1,18FL0053-7,Inbred,CR,"bulk shell, 2 ears"
+27,B1,16CL0001-1,Inbred,CR,"bulk shell, 2 ears"
+28,B1,16CL0001-1,Inbred,SF/CR,"single ear shell, 4 selfed ears"
+29,A1,18FL0053-7,Inbred,SF/CR,"single ear shell, 2 crossed ears"
+30,A1,18FL0053-7,Inbred,SF/CR,"single ear shell, 2 selfed + 2 crossed ears"
+31,B1,16CL0001-1,Inbred,SF/CR,"single ear shell, 3 selfed + 3 crossed ears"
+32,B1,16CL0001-1,Inbred,SF/CR,"bulk shell, 4 selfed  + 4 crossed ears"
+33,A1,18FL0053-7,Inbred,SF/CR,"bulk shell, 4 selfed  + 4 crossed ears"
+34,A1,18FL0053-7,S3:5,SF/CR,no ears
+35,B1,16CL0001-1,F6:7,SF/CR,"single ear shell, 1 selfed + 1 crossed ears"
+36,C1,16MO0002-BLK,Inbred,OBS,no ears
+37,Pop 1,17FL1001-BLK,S0,IN,no ears
+38,Pop 1,17FL1001-BLK,S0,IN,"multi-bulk shell, 3 ears"
+39,Pop 1,17FL1001-BLK,S0,IN,"multi-bulk shell, 3 ears"
+40,Pop 1,17FL1001-BLK,S0,IN,"multi-bulk shell, 3 ears"
+41,Pop 2,17FL1005-BLK,RM4S0,IN,"multi-bulk shell, 3 ears"
+42,Pop 2,17FL1005-BLK,RM4S0,IN,"multi-bulk shell, 3 ears"
+43,A1,18FL0053-7,S3:5,FC,"single ear shell, 1 43 x 45 ear"
+44,B1,16CL0001-1,F6:7,FC,"bulk shell, 3, 44 x 46 ears"
+45,C1,16MO0002-BLK,Inbred,FC,"single ear shell, 2 45 x 43 ears + 2 45 x 44 ears"
+46,D1,12CL32-1,Inbred,OBS,no ears
+47,B73 R-scm2,13CL0808-BLK,Inbred,BC,"single ear shell, 2 ears"
+48,B73 R-scm2×Ga1-S,13CL0808-BLK×13CL0809-1,F1,BC,"single ear shell, 2 ears"
+49,B73 R-scm2×Ga1-S,13CL0808-BLK×13CL0809-1,F1,BC,no ears
+50,B73 R-scm2,13CL0808-BLK,Inbred,BC,"single ear shell, 1 ear"
+51,B73 R-scm2,13CL0808-BLK,Inbred,BC,"single ear shell, 2 ears"
+52,(B73 R-scm2*2)Ga1-S,14CL0208-BLK×14CL0209-1,BC1F1,BC,"single ear shell, 2 ears"
+53,(B73 R-scm2*2)Ga1-S,14CL0208-BLK×14CL0209-1,BC1F1,BC,no ears
+54,B73 R-scm2,13CL0808-BLK,Inbred,BC,"single ear shell, 1 ear"
+55,B73 R-scm2,13CL0808-BLK,Inbred,BC,"single ear shell, 2 ears"
+56,(B73 R-scm2*3)Ga1-S,15CL0800-BLK×15CL0799-1,BC2F1,BC,"single ear shell, 2 ears"
+57,(B73 R-scm2*3)Ga1-S,15CL0800-BLK×15CL0799-1,BC2F1,BC,no ears
+58,B73 R-scm2,13CL0808-BLK,Inbred,BC,"single ear shell, 1 ear"
+59,(B73 R-scm2*3)Ga1-S,15CL0800-BLK×15CL0799-1,BC2F1,SF,"single ear shell, 2 ears"
+60,(B73 R-scm2*3)Ga1-S,16CL10008-1,BC2F1:2,SF,"single ear shell, 2 ears"
+61,B73 R-scm2,13CL0808-BLK,Inbred,OBS,no ears
