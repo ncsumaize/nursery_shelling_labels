@@ -1,7 +1,7 @@
 # nursery_shelling_labels
 Python code to generate plant breeding nursery inventories and shelling/threshing labels for seed packets.
 
-![A script is used to combine input file information, add additionl information, then call the createLabels() function of the nursery module](/images/Workflow_main_shelling label_script.png?raw=true)
+![A script is used to combine input file information, add additionl information, then call the createLabels() function of the nursery module](/images/Workflow_main_shelling label_script.png)
   
 [Sample nursery info file used for input](nursery_sample_info.csv) 
 
